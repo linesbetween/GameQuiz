@@ -64,6 +64,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Accounts.h" />
+    <ClInclude Include="MultiChoice.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Question.h" />
+    <ClInclude Include="SingleChoice.h" />
+    <ClInclude Include="TrueFalse.h" />
+    <ClInclude Include="Verify.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
